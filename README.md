@@ -4,3 +4,11 @@
 
 ## Accuracy before Augmentation
 
+
+## Loss before Augmentation
+
+
+## Accuracy after data Augmentation done
+
+
+## Loss after data Augmentation done
