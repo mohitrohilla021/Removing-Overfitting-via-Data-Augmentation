@@ -4,11 +4,9 @@
 
 ## Accuracy before Augmentation
 
+![](Accuracy%20without%20augmentation.JPG)
 
 ## Loss before Augmentation
 
+![](Loss%20without%20augmentation.JPG)
 
-## Accuracy after data Augmentation done
-
-
-## Loss after data Augmentation done
